@@ -1,0 +1,2 @@
+# penaminiku
+file js penamini
